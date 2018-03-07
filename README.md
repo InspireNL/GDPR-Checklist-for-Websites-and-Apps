@@ -2,10 +2,10 @@
 The General Data Protection Regulation (GDPR) is a regulation by which the European Parliament, the Council of the European Union, and the European Commission intend to strengthen and unify data protection for all individuals within the European Union. The proposed new EU data protection regime extends the scope of the EU data protection law to all foreign companies processing data of EU residents.
 
 ## Checklist
-* The application needs a [privacy statement](#privacy-statement).
-* The application does not collect more data then it needs.
-* End users need to agree with the processing of personal data.
-* It is clear to the end user on what he gives permission for. This is explained transparently, concisely and understandably. Visual support is used where relevant. Especially when information is intended for a child.
+* The application has a [privacy statement](#privacy-statement).
+* The application does not collect more data than is strictly necessary for the intended purpose as communicated to the user.
+* The end users has explicitly agreed with the processing of personal data.
+* It is clear to the end user what he/she gives permission for. This is explained transparently, concisely and understandably. Visual support is used where relevant. Especially when information is intended for a child.
 * If applicable, it is stated that a child may only give permission if he/she is 16 years of age or older. Otherwise, the permission of a parent is needed. It should be reasonably demonstrated that a parent has given permission.
 * [Processing](#processing) of [personal data](#personal-data) from [special categories](#special-categories) are prohibited unless the person has explicitly given permission for confidentiality of the personal data for one or more well-defined purposes or the data apparently made public by the person himself.
 * End users have the option to withdraw their consent.

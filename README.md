@@ -2,17 +2,17 @@
 The General Data Protection Regulation (GDPR) is a regulation by which the European Parliament, the Council of the European Union, and the European Commission intend to strengthen and unify data protection for all individuals within the European Union. The proposed new EU data protection regime extends the scope of the EU data protection law to all foreign companies processing data of EU residents.
 
 ## Checklist
-* The application needs a [privacy statement](#privacy-Statement).
+* The application needs a [privacy statement](#privacy-statement).
 * The application does not collect more data then it needs.
 * End users need to agree with the processing of personal data.
 * It is clear to the end user on what he gives permission for. This is explained transparently, concisely and understandably. Visual support is used where relevant. Especially when information is intended for a child.
 * If applicable, it is stated that a child may only give permission if he/she is 16 years of age or older. Otherwise, the permission of a parent is needed. It should be reasonably demonstrated that a parent has given permission.
-* [Processing](#processing) of [personal data](#personal-data) from [special categories](#special-Categories) are prohibited unless the person has explicitly given permission for confidentiality of the personal data for one or more well-defined purposes or the data apparently made public by the person himself.
+* [Processing](#processing) of [personal data](#personal-data) from [special categories](#special-categories) are prohibited unless the person has explicitly given permission for confidentiality of the personal data for one or more well-defined purposes or the data apparently made public by the person himself.
 * End users have the option to withdraw their consent.
 * End users can gain insight into which data is being processed.
 * End users can request a copy of his data.
 * End users can view and adjust data that is actively shared (by the user).
-* End users may object to the processing of their personal data. This has been made clear during the first contact, for example in the [privacy statement](#privacy-Statement).
+* End users may object to the processing of their personal data. This has been made clear during the first contact, for example in the [privacy statement](#privacy-statement).
 * End users can file a complaint.
 * If an application includes decision-making, it should be clear how that decision is taken. [(Example)](#decision-making)
 * An appropriate assessment has been made when data is [pseudonymized](#pseudonymisation) and this process is tuned. [(Example)](#pseudonymised-data)
@@ -37,7 +37,7 @@ The General Data Protection Regulation (GDPR) is a regulation by which the Europ
 The privacy statement needs to make clear:
 * Who is responsible for data processing.
 * What is the purpose of the processing of the data.
-* Who will receive the data. [(Examples)](#Third-Party)
+* Who will receive the data. [(Examples)](#third-party)
 * For how long the data will be saved.
 
 
@@ -66,7 +66,7 @@ Any persons, public authorities or agencies other than the end user, controller 
 In the case of a mortgage application where the user fills in several data and then the system decides whether or not the user is eligible for a mortgage. How that decision came about must be transparent.
 
 #### Pseudonymised Data
-After an end user has not logged in for half a year, the data, for example, their results of a test, is [pseudonymized](Pseudonymisation).
+After an end user has not logged in for half a year, the data, for example, their results of a test, is [pseudonymized](#pseudonymisation).
 
 #### Personal Data
 Any form of information relating to an identified or identifiable natural person. Think of the name, an identification number, location data, an online identifier, but also factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.

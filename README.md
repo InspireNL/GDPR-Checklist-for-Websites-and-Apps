@@ -3,12 +3,13 @@ The General Data Protection Regulation (GDPR) is a regulation by which the Europ
 
 ## Checklist
 - [ ] The application has a [privacy statement](#privacy-statement).
-- [ ] The application does not collect more data then it needs.
-- [ ] End users must agree with the [processing](#processing) of [personal data](#personal-data).
-- [ ] It is clear to the end user on what he gives permission for. This is explained transparently, concisely and understandably. Visual support is used where relevant. Especially when information is intended for a child.
+- [ ] The application does not collect more data than is strictly necessary for the intended purpose as communicated to the user.
+- [ ] The end users has explicitly agreed with the [processing](#processing) of [personal data](#personal-data).
+- [ ] The application has a separate checkbox on the registration form for each particular processing activity.
+- [ ] It is clear to the end user on what he/she gives permission for. This is explained transparently, concisely and understandably. Visual support is used where relevant. Especially when information is intended for a child.
 - [ ] If applicable, it is stated that a child may only give permission if he/she is 16 years of age or older. Otherwise, the permission of a parent is needed. It should be reasonably demonstrated that a parent has given permission.
-- [ ] End users can view and adjust data that is actively shared (by the user).
 - [ ] If the application includes decision-making, it should be clear how that decision is taken. [(Example)](#decision-making)
+- [ ] The application allows end users to view and adjust data that is actively shared (by the user).
 - [ ] An appropriate assessment has been made when data is [pseudonymized](#pseudonymisation) and this process is tuned. [(Example)](#pseudonymised-data)
 - [ ] Appropriate technical and organizational measures are taken to ensure a level of security appropriate to the risk, including inter alia as appropriate:
   * the pseudonymisation and encryption of personal data.

@@ -1,4 +1,4 @@
-# GDPR Checklist for Web & Mobile Applications
+# GDPR Checklist for Websites & Mobile Applications
 The General Data Protection Regulation (GDPR) is a regulation by which the European Parliament, the Council of the European Union, and the European Commission intend to strengthen and unify data protection for all individuals within the European Union. The proposed new EU data protection regime extends the scope of the EU data protection law to all foreign companies processing data of EU residents.
 
 ## Checklist

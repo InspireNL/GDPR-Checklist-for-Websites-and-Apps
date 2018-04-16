@@ -3,12 +3,14 @@ The General Data Protection Regulation (GDPR) is a regulation by which the Europ
 
 ## Checklist
 - [ ] The application has a [privacy statement](#privacy-statement).
-- [ ] The application does not collect more data than is strictly necessary for the intended purpose as communicated to the user.
-- [ ] The end users has explicitly agreed with the [processing](#processing) of [personal data](#personal-data).
+- [ ] The application does not collect or process more data or for a longer duration than is strictly necessary for the intended purpose as communicated to the user.
+- [ ] The end users has explicitly agreed with the [processing](#processing) of [personal data](#personal-data). (Pre-ticked boxes are not permitted.)
+- [ ] The application provides contact information on the [controller](#controller) that is easy to find.
 - [ ] The application has a separate checkbox on the registration form for each particular processing activity.
 - [ ] It is clear to the end user on what he/she gives permission for. This is explained transparently, concisely and understandably. Visual support is used where relevant. Especially when information is intended for a child.
 - [ ] If applicable, it is stated that a child may only give permission if he/she is 16 years of age or older. Otherwise, the permission of a parent is needed. It should be reasonably demonstrated that a parent has given permission.
 - [ ] If the application includes decision-making, it should be clear how that decision is taken. [(Example)](#decision-making)
+- [ ] If the application includes programmatic advertisements it must be clearly authorised by the user.
 - [ ] The application allows end users to view and adjust data that is actively shared (by the user).
 - [ ] An appropriate assessment has been made when data is [pseudonymized](#pseudonymisation) and this process is tuned. [(Example)](#pseudonymised-data)
 - [ ] Appropriate technical and organizational measures are taken to ensure a level of security appropriate to the risk, including inter alia as appropriate:
@@ -19,7 +21,7 @@ The General Data Protection Regulation (GDPR) is a regulation by which the Europ
 
 
 ## Rights of the data subject
-**Right of access by the data subject**
+**Right of access by the data subject** <br />
 The data subject has the right to obtain confirmation from a controller that data is being processed about him. In that case, the following information must be provided:
 * the purpose of the processing
 * which categories of personal data are processed
@@ -27,10 +29,10 @@ The data subject has the right to obtain confirmation from a controller that dat
 
 In addition, it is the intention that the person concerned gains 'access' to the data processed about him. This could be done, for example, by exporting the file that was created about the person concerned.
 
-**Right to rectification**
+**Right to rectification** <br />
 The data subject has the right to have his data rectified if they are not correct or incomplete. If you have shared this information with third parties as controller, then you must inform these parties about this rectification if possible.
 
-**Right to erasure ('right to be forgotten')**
+**Right to erasure ('right to be forgotten')** <br />
 Due to the right to erasure, also known as the 'right to be forgotten', the data subject has the right to request the removal of his data. The right can be used in the following cases:
 * the data is no longer needed in relation to the purpose of the processing
 * the data subject withdrew his consent to the processing
@@ -38,13 +40,13 @@ Due to the right to erasure, also known as the 'right to be forgotten', the data
 * the data has been processed unlawfully
 * the data must be removed because of a legal obligation
 
-**Right to restriction of processing**
+**Right to restriction of processing** <br />
 The data subject can request a blocking of the processing. This means that except that the data is retained, no other processing may take place (including no deletion).
 
-**Right to data portability**
+**Right to data portability** <br />
 The data subject has the right to receive the personal data he has made available to the controller, in a structured and widely used format (this format must be machine readable, for example a csv file or in JSON format). He has the right to transfer this data to another controller.
 
-**Right to object**
+**Right to object** <br />
 The data subject may object to the processing of his data if the processing has been effected on the basis of the following points:
 * Processing is necessary for a general interest task or for a task in the exercise of the public authority entrusted to the controller
 * The processing is necessary for the representation of the legitimate interests of the controller or of a third party
@@ -70,8 +72,8 @@ A privacy statement must comply with the following characteristics:
 * easily accessible
 
 The privacy statement must at least contain the following information:
-* Identity and contact information of [the controller](#controller)
-* Purpose and legal basis for processing
+* Identity and contact information of the [controller](#controller) that will allow users to raise any questions that they may have in relation to their privacy protection or to exercise their rights to access, correct and delete their data, and their right to data portability
+* A clear description of the purposes for which personal data will be processed
 * The legitimate interests of the controller (if applicable)
 * Any recipients (or categories of recipients) of the personal data (for example possible processors like [third parties](#third-parties))
 * Information about the forwarding of the personal data to a third country (outside the EU), if applicable
